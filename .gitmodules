@@ -1,0 +1,9 @@
+[submodule "clubwinkh"]
+	path = clubwinkh
+	url = https://github.com/steake/clubwinkh.git
+[submodule "clubwinkh-admin"]
+	path = clubwinkh-admin
+	url = https://github.com/steake/clubwinkh-admin.git
+[submodule "tg-miniapp"]
+	path = tg-miniapp
+	url = https://github.com/steake/tg-miniapp.git
