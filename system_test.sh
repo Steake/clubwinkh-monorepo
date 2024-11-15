@@ -62,7 +62,7 @@ fi
 cd ..
 
 # Test Telegram Mini App
-cd tg-miniapp
+cd clubwinkh-tg-miniapp
 TOTAL_TESTS=$((TOTAL_TESTS + 1))
 if run_test "Telegram Mini App" "npm run test"; then
     PASSED_TESTS=$((PASSED_TESTS + 1))

@@ -4,9 +4,9 @@
 [submodule "clubwinkh-admin"]
 	path = clubwinkh-admin
 	url = git@github.com:Steake/clubwinkh-admin.git
-[submodule "tg-miniapp"]
-	path = tg-miniapp
-	url = git@github.com:Steake/tg-miniapp.git
+[submodule "clubwinkh-tg-miniapp"]
+	path = clubwinkh-tg-miniapp
+	url = git@github.com:Steake/clubwinkh-tg-miniapp.git
 [submodule "clubwinkh-api"]
 	path = clubwinkh-api
 	url = git@github.com:Steake/clubwinkh-api.git
